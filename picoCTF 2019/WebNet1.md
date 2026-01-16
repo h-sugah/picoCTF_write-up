@@ -19,23 +19,23 @@ packet captureとkeyを選択するとこで、ファイルをダウンロード
 
 Wiresharkでpcapファイルを開きます。  
 
-![[challenge-42--figure1.png]]
+![Wireshark画面](pictures/challenge-42--figure1.png)
 
 Protocol欄にTLSv1.2の記載があるので、プライベートキーで暗号化を解除することができそうです。  
 まず、ダウンロードしたpicopicp.keyをWiresharkに登録します。  
 Preferencesのダイアログを表示し、左側ペインからRSA Keysを選択します。  
 
-![[challenge-42--figure2.png]]
+![challenge-42--figure2.png](pictures/challenge-42--figure2.png)
 
 RSA Keys画面では、「Add new key file...」ボタンを押して「picopico.key」ファイルを登録します。  
 
-![[challenge-42--figure3.png]]
+![challenge-42--figure3.png](pictures/challenge-42--figure3.png)
 
 ファイルを登録したら「OK」ボタンを押します。  
 ダイアログが閉じられ、メイン画面に戻ったらパケットキャプチャーファイルをリロードします。  
 すると、TLSで暗号化されたパケットが復号されて、HTTPのパケットが現れます。  
 
-![[challenge-42--figure4.png]]
+![challenge-42--figure4.png](pictures/challenge-42--figure4.png)
 
 暗号化されたパケットのデータが復号されたので、まずはパケットのデータにフラグがないか確認してみます。  
 Wiresharkのメニューから Edit ＞ Find Packet と選択し、以下を設定して検索欄に「picoCTF」と入力して検索します。  
@@ -43,7 +43,7 @@ Wiresharkのメニューから Edit ＞ Find Packet と選択し、以下を設�
 - String  
 - Multiple Occurrences にチェックを入れる  
 
-![[challenge-42--figure5.png]]
+![challenge-42--figure5.png](pictures/challenge-42--figure5.png)
 
 囮のフラグを検索しますが、何回か検索を続けると正規のフラグがヒットします。  
 
