@@ -80,5 +80,5 @@ picoCTF{learning_about_converting_values_aeBEA593}
 <br>
 <br>
 
-## この問題は
+## 補足
 [CyberChef](https://gchq.github.io/CyberChef/)などを活用して各表記のデータを文字に変換すると良いでしょう。  

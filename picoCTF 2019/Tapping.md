@@ -1,11 +1,11 @@
 # Tapping
-Author: Danny  
+Author: Danny  
 
 #### URL
 https://play.picoctf.org/practice/challenge/21  
 
 #### Description
-Theres tapping coming in from the wires. What's it saying `nc jupiter.challenges.picoctf.org 48247`.  
+Theres tapping coming in from the wires. What's it saying `nc jupiter.challenges.picoctf.org 48247`.  
 
 <br>
 <br>
@@ -49,8 +49,3 @@ PICOCTFM0RS3C0D31SFUN1261438181
 ## フラグ
 PICOCTF{M0RS3C0D31SFUN1261438181}  
 
-<br>
-<br>
-
-## この問題は
-モールス信号について学ぶことができます。  

@@ -1,5 +1,5 @@
 # Investigative Reversing 2
-Author: Santiago C/Danny T  
+Author: Santiago C/Danny T  
 
 ### URL
 https://play.picoctf.org/practice/challenge/13  
@@ -371,8 +371,3 @@ picoCTF{n3xt_0n300000000000000000000000000394060c}
 ## フラグ
 picoCTF{n3xt_0n300000000000000000000000000394060c}  
 
-<br>
-<br>
-
-## この問題は
-バイナリーファイルの解析とステガノグラフィーを学ぶ問題のようです。  

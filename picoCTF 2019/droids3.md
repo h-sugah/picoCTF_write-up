@@ -1,5 +1,5 @@
 # droids3
-Author: Jason  
+Author: Jason  
 
 #### URL
 https://play.picoctf.org/practice/challenge/23  
@@ -112,8 +112,3 @@ invoke-static {p0}, Lcom/hellocmu/picoctf/FlagstaffHill;->yep(Ljava/lang/String;
 ## フラグ
 picoCTF{tis.but.a.scratch}  
 
-<br>
-<br>
-
-## この問題は
-Androidアプリのリバースエンジニアリングについて勉強できます。  

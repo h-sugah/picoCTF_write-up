@@ -64,13 +64,8 @@ ROT13のレシピでブルートフォースを試してみました。しかし
 <br>
 <br>
 
-## この問題は
-ヴィジュネル暗号について学ぶ問題のようです。  
-
-<br>
-<br>
-
-## 復号した全文
+## 補足
+復号全文  
 ```
 It is interesting how in history people often receive credit for things they did not create
 

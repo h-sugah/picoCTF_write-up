@@ -1,11 +1,11 @@
 # john_pollard
-Author: Samuel S  
+Author: Samuel S  
 
 ### URL
 https://play.picoctf.org/practice/challenge/6  
 
 ### Description
-Sometimes RSA certificates are breakable  
+Sometimes RSA certificates are breakable  
 
 <br>
 <br>
@@ -101,13 +101,11 @@ print(factors)
 <br>
 
 ## フラグ
-> picoCTF{73176001,67867967}  
+picoCTF{73176001,67867967}  
 
 <br>
 <br>
 
-## この問題は
-素数に関して学ぶ問題だと思われます。  
-なお、タイトルのJohn Pollardさんは、数学者とのことです。  
-
+## 参考
+タイトルのJohn Pollardさんは、数学者とのことです。  
 参考：[John Pollard (mathematician)](https://en.wikipedia.org/wiki/John_Pollard_(mathematician))  

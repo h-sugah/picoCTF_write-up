@@ -1,11 +1,11 @@
 # Investigative Reversing 1
-Author: Danny Tunitis  
+Author: Danny Tunitis  
 
 #### URL
 https://play.picoctf.org/practice/challenge/27  
 
 #### Description
-We have recovered a binary and a few images: image, image2, image3. See what you can make of it. There should be a flag somewhere.  
+We have recovered a binary and a few images: image, image2, image3. See what you can make of it. There should be a flag somewhere.  
 
 <br>
 <br>
@@ -273,9 +273,3 @@ picoCTF{An0tha_1_9a47141}
 ## フラグ
 picoCTF{An0tha_1_9a47141}  
 
-<br>
-<br>
-
-## この問題は
-PNGファイルに情報を隠す方法を知ることができます。  
-Ghidraの使い方を学ぶことができます。  

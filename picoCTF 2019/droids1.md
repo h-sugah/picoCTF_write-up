@@ -1,11 +1,11 @@
 # droids1
-Author: Jason  
+Author: Jason  
 
 ### URL
 https://play.picoctf.org/practice/challenge/14  
 
 ### Description
-Find the pass, get the flag. Check out this file.  
+Find the pass, get the flag. Check out this file.  
 
 <br>
 <br>
@@ -62,8 +62,3 @@ passwordには、「opossum」というワードが定義されていること�
 ## フラグ
 picoCTF{pining.for.the.fjords}  
 
-<br>
-<br>
-
-## この問題は
-Androidのアプリケーションをエミュレーターで動作させ、開発環境の扱い方を学ぶことができます。  

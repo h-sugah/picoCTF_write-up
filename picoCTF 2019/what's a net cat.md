@@ -1,5 +1,5 @@
 # what's a net cat?
-Author: Sanjay C/Danny Tunitis  
+Author: Sanjay C/Danny Tunitis  
 
 #### URL
 https://play.picoctf.org/practice/challenge/34  
@@ -41,18 +41,3 @@ netcatコマンドのマスターになれました。
 #＃ フラグ
 picoCTF{nEtCat_Mast3ry_aC66D475}  
 
-<br>
-<br>
-
-## この問題は
-netcatコマンドの使い方を学べます。  
-以下に、ncコマンドのヘルプを出力した内容を示します。  
-```
-$ nc --help
-nc: invalid option -- '-'
-usage: nc [-46CDdFhklNnrStUuvZz] [-I length] [-i interval] [-M ttl]
-          [-m minttl] [-O length] [-P proxy_username] [-p source_port]
-          [-q seconds] [-s sourceaddr] [-T keyword] [-V rtable] [-W recvlimit]
-          [-w timeout] [-X proxy_protocol] [-x proxy_address[:port]]
-          [destination] [port]
-```

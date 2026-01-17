@@ -5,7 +5,7 @@ Author: Sanjay C
 https://play.picoctf.org/practice/challenge/20  
 
 #### Description
-What does asm1(0x6fa) return? Submit the flag as a hexadecimal value (starting with '0x'). NOTE: Your submission for this question will NOT be in the normal flag format. Source  
+What does asm1(0x6fa) return? Submit the flag as a hexadecimal value (starting with '0x'). NOTE: Your submission for this question will NOT be in the normal flag format. Source  
 
 <br>
 <br>
@@ -13,7 +13,7 @@ What does asm1(0x6fa) return? Submit the flag as a hexadecimal value (starting w
 <br>
 
 ## 解答の過程
-「Source」をクリックするとファイルをダウンロードすることができます。  
+「Source」をクリックするとファイルをダウンロードできます。  
 ファイル名は「test.S」です。  
 エディターでファイルを開き、内容を確認します。  
 以下のアセンブリーコードが記載されていました。  
@@ -88,9 +88,3 @@ eaxレジスターの値は、0x6e8です。これがフラグになります。
 
 ## フラグ
 0x6e8  
-
-<br>
-<br>
-
-## この問題は
-アセンブリーでの比較する処理について学ぶことができます。  

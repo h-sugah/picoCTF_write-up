@@ -5,7 +5,7 @@ Author: Joon
 https://play.picoctf.org/practice/challenge/26  
 
 #### Description
-Decode this message from the moon.  
+Decode this message from the moon.  
 
 <br>
 <br>
@@ -61,7 +61,4 @@ Google検索で「sstv wav decode」のキーワードで検索すると、オ�
 picoCTF{beep_boop_im_in_space}  
 
 ## この問題は
-SSTVについて学ぶことができます。  
-
-
 ・・・CMUのマスコットについては分からないまま問題を解いてしまいました。  

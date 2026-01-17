@@ -1,11 +1,11 @@
 # vault-door-1
-Author: Mark E. Haase  
+Author: Mark E. Haase  
 
 ### URL
 https://play.picoctf.org/practice/challenge/12  
 
 ### Description
-This vault uses some complicated arrays! I hope you can make sense of it, special agent. The source code for this vault is here: [VaultDoor1.java](https://jupiter.challenges.picoctf.org/static/87e103a8db01087de9ccf5a7a022ddf8/VaultDoor1.java)  
+This vault uses some complicated arrays! I hope you can make sense of it, special agent. The source code for this vault is here: [VaultDoor1.java](https://jupiter.challenges.picoctf.org/static/87e103a8db01087de9ccf5a7a022ddf8/VaultDoor1.java)  
 
 <br>
 <br>
@@ -67,9 +67,3 @@ password.charAt(31) == '4';
 ## Flag
 picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_f6daf4}  
 
-<br>
-<br>
-
-## この問題は
-Javaのソースコードを理解する問題だと思えます。  
-また、フラグになっている文字を繋げていく手段について調べることも目的になっていると思えます。  

@@ -1,11 +1,11 @@
 # strings it
-Author: Sanjay C/Danny Tunitis  
+Author: Sanjay C/Danny Tunitis  
 
 #### URL
 https://play.picoctf.org/practice/challenge/37  
 
 #### Description
-Can you find the flag in file without running it?  
+Can you find the flag in file without running it?  
 
 <br>
 <br>
@@ -53,8 +53,8 @@ picoCTF{5tRIng5_1T_A1b9ECAa}
 <br>
 <br>
 
-## この問題は
-stringsコマンドの使い方を学ぶことができます。  
+## 補足
+stringsコマンド  
 
 ```
 $ strings --help

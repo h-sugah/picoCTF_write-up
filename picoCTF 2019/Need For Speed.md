@@ -235,11 +235,3 @@ PICOCTF{Good job keeping bus #1deb50bb speeding along!}
 
 ※picoCTF{ }ではなく、PICOCTF{ }です。  
 
-<br>
-<br>
-
-## この問題は
-Ghidraの使い方を学ぶことができます。  
-
-いろいろな解き方があるので、それぞれのツールを学ぶことができます。  
-

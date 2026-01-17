@@ -5,7 +5,7 @@ Author: speeeday/Danny
 https://play.picoctf.org/practice/challenge/40  
 
 #### Description
-A musician left us a message. What's it mean?  
+A musician left us a message. What's it mean?  
 
 <br>
 <br>

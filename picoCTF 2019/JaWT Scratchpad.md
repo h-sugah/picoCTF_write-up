@@ -138,8 +138,3 @@ JaWTサイトのScrachpadページに移ります。
 ## フラグ
 picoCTF{jawt_was_just_what_you_thought_44c752f5}  
 
-<br>
-<br>
-
-## この問題は
-JWTに関する理解とJohn the Ripperの使い方を学ぶことができます。  

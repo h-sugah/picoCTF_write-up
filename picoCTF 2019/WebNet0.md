@@ -5,7 +5,7 @@ Author: Jason
 https://play.picoctf.org/practice/challenge/32  
 
 #### Description
-We found this packet capture and key. Recover the flag.  
+We found this packet capture and key. Recover the flag.  
 
 <br>
 <br>
@@ -92,8 +92,3 @@ Wireshark・...としてデコードダイアログが表示されます。対�
 ## フラグ
 picoCTF{nongshim.shrimp.crackers}  
 
-<br>
-<br>
-
-## この問題は
-Wiresharkの使い方を学ぶことができます。  

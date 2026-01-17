@@ -5,7 +5,7 @@ Author: Sanjay C
 https://play.picoctf.org/practice/challenge/16  
 
 #### Description
-What does asm2(0x4,0x21) return? Submit the flag as a hexadecimal value (starting with '0x'). NOTE: Your submission for this question will NOT be in the normal flag format. Source  
+What does asm2(0x4,0x21) return? Submit the flag as a hexadecimal value (starting with '0x'). NOTE: Your submission for this question will NOT be in the normal flag format. Source  
 
 <br>
 <br>
@@ -111,10 +111,4 @@ asm2:
 <br>
 
 ## フラグ
-0x24c
-
-<br>
-<br>
-
-## この問題は
-ヒントでリンクされているページを見ると、アセンブリーの「条件分岐」について学ぶ問題だと思います。
+0x24c  

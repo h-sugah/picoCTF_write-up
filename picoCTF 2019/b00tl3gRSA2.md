@@ -73,11 +73,5 @@ str:  picoCTF{bad_1d3a5_2438125}
 <br>
 
 ## フラグ
-> Flag: picoCTF{bad_1d3a5_2438125}
+Flag: picoCTF{bad_1d3a5_2438125}  
 
-<br>
-<br>
-
-## この問題は
-
-RSA暗号方式の基礎を学ばせる問題なのでしょう。  

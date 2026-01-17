@@ -1,11 +1,11 @@
 # droids4
-Author: Jason  
+Author: Jason  
 
 #### URL
 https://play.picoctf.org/practice/challenge/17  
 
 #### Description
-Reverse the pass, patch the file, get the flag. Check out this file.  
+Reverse the pass, patch the file, get the flag. Check out this file.  
 
 <br>
 <br>
@@ -175,8 +175,4 @@ cardamon()に渡している引数（p0）は、パスワード文字列「alpha
 
 ## フラグ
 picoCTF{not.particularly.silly}  
-
-
-## この問題は
-androidアプリのリバースエンジニアリングについて勉強できます。  
 

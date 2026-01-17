@@ -1,5 +1,5 @@
 # Java Script Kiddie
-Author: John Johnson  
+Author: John Johnson  
 
 #### URL
 https://play.picoctf.org/practice/challenge/29  
@@ -148,9 +148,3 @@ for i in range(16):
 ## フラグ
 picoCTF{ce96332407ef1381c0bcc59e4154afc8}  
 
-<br>
-<br>
-
-## この問題は
-PNGデータのフォーマットについて学ぶことができます。  
-開発者ツールの活用やスクリプトの解析など、多様な手法を組み合わせて解決していくことができます。  

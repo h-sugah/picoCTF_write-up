@@ -1,11 +1,11 @@
 # shark on wire 1
-Author: Danny  
+Author: Danny  
 
 #### URL
 https://play.picoctf.org/practice/challenge/30  
 
 #### Description
-We found this packet capture. Recover the flag.  
+We found this packet capture. Recover the flag.  
 
 <br>
 <br>
@@ -57,9 +57,3 @@ Malformed PacketのUDPストリームはパケット番号55番だったので�
 ## フラグ
 picoCTF{StaT31355_636f6e6e}  
 
-<br>
-<br>
-
-## この問題は
-Wiresharkの使い方を学ぶことができます。  
-UDPストリームについて学ぶことができます。  

@@ -5,7 +5,7 @@ Author: Jason
 https://play.picoctf.org/practice/challenge/42  
 
 #### Description
-We found this packet capture and key. Recover the flag.  
+We found this packet capture and key. Recover the flag.  
 
 <br>
 <br>

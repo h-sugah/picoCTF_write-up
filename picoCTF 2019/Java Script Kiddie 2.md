@@ -1,5 +1,5 @@
 # Java Script Kiddie 2
-Author: John Johnson  
+Author: John Johnson  
 
 ### URL
 https://play.picoctf.org/practice/challenge/33. 
@@ -177,9 +177,3 @@ keyとなる文字列の奇数インデックスはどのような値でも構�
 ## フラグ
 picoCTF{c1f4f2d57d0538d4e9e2ab53e3d1fedc}  
 
-<br>
-<br>
-
-## この問題は
-PNGデータのフォーマットについて学ぶことができます。  
-開発者ツールの活用やスクリプトの解析など、多様な手法を組み合わせて解決していくことができます。  

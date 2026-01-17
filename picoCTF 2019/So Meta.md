@@ -1,11 +1,11 @@
 # So Meta
-Author: Kevin Cooper/Danny  
+Author: Kevin Cooper/Danny  
 
 #### URL
 https://play.picoctf.org/practice/challenge/19  
 
 #### Description
-Find the flag in this picture.  
+Find the flag in this picture.  
 
 <br>
 <br>
@@ -61,8 +61,3 @@ $ strings -a pico_img.png
 ## フラグ
 picoCTF{s0_m3ta_d8944929}  
 
-<br>
-<br>
-
-## この問題は
-メタデータとは何か、そして、ファイルへのアプローチの仕方について学ぶことができます。  

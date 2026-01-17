@@ -1,5 +1,5 @@
 # waves over lambda
-Author: invisibility/Danny  
+Author: invisibility/Danny  
 
 #### URL
 https://play.picoctf.org/practice/challenge/38  
@@ -69,9 +69,7 @@ frequency_is_c_over_lambda_8003f343
 <br>
 <br>
 
-## この問題は
-換字式暗号について学ぶことができます。  
-
+## 補足
 dCodeサイトは、様々な種類の暗号解読ツールを提供しています。  
 
 dCode：https://www.dcode.fr/en  

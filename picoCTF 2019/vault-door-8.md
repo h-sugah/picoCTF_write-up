@@ -1,11 +1,11 @@
 ### vault-door-8
-Author: Mark E. Haase  
+Author: Mark E. Haase  
 
 ### URL
 https://play.picoctf.org/practice/challenge/10  
 
 ### Description
-Apparently Dr. Evil's minions knew that our agency was making copies of their source code, because they intentionally sabotaged this source code in order to make it harder for our agents to analyze and crack into! The result is a quite mess, but I trust that my best special agent will find a way to solve it. The source code for this vault is here: VaultDoor8.java  
+Apparently Dr. Evil's minions knew that our agency was making copies of their source code, because they intentionally sabotaged this source code in order to make it harder for our agents to analyze and crack into! The result is a quite mess, but I trust that my best special agent will find a way to solve it. The source code for this vault is here: VaultDoor8.java  
 
 <br>
 <br>
@@ -234,9 +234,3 @@ picoCTF{ }の{ }内に得られたパスワードを入れてフラグになり�
 ## フラグ
 > picoCTF{s0m3_m0r3_b1t_sh1fTiNg_2e762b0ab}
 
-<br>
-<br>
-
-## この問題は
-
-bit演算について学ぶ問題のようです。  

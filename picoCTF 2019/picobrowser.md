@@ -1,11 +1,11 @@
 # picobrowser
-Author: Archit  
+Author: Archit  
 
 ### URL
 https://play.picoctf.org/practice/challenge/9  
 
 ### Description
-This website can be rendered only by **picobrowser**, go and catch the flag! https://jupiter.challenges.picoctf.org/problem/28921/ (link) or http://jupiter.challenges.picoctf.org:28921  
+This website can be rendered only by **picobrowser**, go and catch the flag! https://jupiter.challenges.picoctf.org/problem/28921/ (link) or http://jupiter.challenges.picoctf.org:28921  
 
 <br>
 <br>
@@ -48,15 +48,13 @@ Chromeで当該サイトにアクセス、開発者モードを起動して「Se
 <br>
 
 ## Flag
-> picoCTF{p1c0_s3cr3t_ag3nt_84f9c865}  
+picoCTF{p1c0_s3cr3t_ag3nt_84f9c865}  
 
 <br>
 <br>
 
-## この問題は
-ユーザーエージェントについて学ぶ問題のようです。  
-
-なお、curlコマンドを使う場合は、--user-agentオプションで「picobrowser」と記述します。レスポンスのhtml内にフラグが記載されています。  
+## 補足
+curlコマンドを使う場合は、--user-agentオプションで「picobrowser」と記述します。レスポンスのhtml内にフラグが記載されています。  
 
 > curl -v --user-agent "picobrowser" http://jupiter.challenges.picoctf.org:28921
 

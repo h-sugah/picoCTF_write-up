@@ -1,11 +1,11 @@
 # Insp3ct0r
-Author: zaratec/danny  
+Author: zaratec/danny  
 
 #### URL
 https://play.picoctf.org/practice/challenge/18  
 
 #### Description
-Kishor Balan tipped us off that the following code may need inspection: https://jupiter.challenges.picoctf.org/problem/9670/ or http://jupiter.challenges.picoctf.org:9670  
+Kishor Balan tipped us off that the following code may need inspection: https://jupiter.challenges.picoctf.org/problem/9670/ or http://jupiter.challenges.picoctf.org:9670  
 
 <br>
 <br>
@@ -35,8 +35,3 @@ Kishor Balan tipped us off that the following code may need inspection: https:/
 ## フラグ
 picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?2e7b23e3}  
 
-<br>
-<br>
-
-## この問題は
-開発者ツールの使い方を学ぶことができます。  

@@ -42,12 +42,10 @@ Disallow: /8028f.html
 <br>
 
 ## フラグ
-> picoCTF{ca1cu1at1ng_Mach1n3s_8028f}
+picoCTF{ca1cu1at1ng_Mach1n3s_8028f}  
 
 <br>
 <br>
 
-## この問題は
-robots.txtについて学ぶ問題のようです。  
-
-参考：[robots.txt の概要](https://developers.google.com/search/docs/crawling-indexing/robots/intro?hl=ja)  
+## 参考
+[robots.txt の概要](https://developers.google.com/search/docs/crawling-indexing/robots/intro?hl=ja)  

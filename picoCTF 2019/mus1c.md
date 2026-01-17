@@ -1,11 +1,11 @@
 # mus1c
-Author: Danny  
+Author: Danny  
 
 ### URL
 https://play.picoctf.org/practice/challenge/15  
 
 ### Description
-I wrote you a song. Put it in the picoCTF{} flag format.  
+I wrote you a song. Put it in the picoCTF{} flag format.  
 
 <br>
 <br>
@@ -44,8 +44,3 @@ rockstarをマスターできると思うか？ということで、rackstarと�
 #フラグ
 picoCTF{rrrocknrn0113r}  
 
-<br>
-<br>
-
-## この問題は
-プログラミング言語の多様さを知ることができます。  
